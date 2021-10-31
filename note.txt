@@ -1,2 +1,2 @@
-The test.py is dependent of AI.py , as base package is AI.py and is being imorted to it .
-This pacakge is subject to copyright.
+AI.py is neccessary for execution of test.py.
+This package is subject to copyright.
